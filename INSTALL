@@ -1,0 +1,9 @@
+Building ALECoin
+
+See doc/readme-qt.rst for instructions on building ALECoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ALECoin.
+
+See doc/build-*.txt for instructions on building ALECoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ALECoin.
